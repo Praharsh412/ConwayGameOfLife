@@ -3,6 +3,8 @@ The repository contains code for Simulation of Conway's game of life in pygame
 
 # Instructions to run the program:
 
+There are 4 files present namely --- main.py, game_class.py, cell_class.py, button_class.py
+
 python version required: **python 3.6+ or 3.8**
 
 This program uses **'pygame'** library (python opensource package) for diplaying the interface of the grid.
