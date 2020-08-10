@@ -12,7 +12,7 @@ python version required: python 3.6+ or 3.8
 
 This program uses 'pygame' library (python opensource package) for diplaying the interface of the grid.
 
-To intall pygame the following instructions can be followed:
+To install pygame the following instructions can be followed:
 
 $pip install pygame OR 
 $python3 -m pip install pygame OR 
@@ -22,9 +22,11 @@ Navigate to the folder where the files are present , and in the terminal or comm
 
 $python3 main.py OR $python main.py   (BASED ON THE PATH VARIABLE SET FOR THE PYTHON 3.x version)
 
-Now the pygame window will be up with the white grid with cells adn two buttons 'RUN' and 'RESET' on the top.
+Now the pygame window will be up with the white grid with cells and three buttons 'RUN' and 'RESET' and 'RANDOM' on the top.
 
-To run the evolution game, select the cells to be alive initially with mouse (input), the cells selected will be black in colour to represent that they are alive 
+To run the evolution game, select the cells to be alive initially with mouse (input), the cells selected will be black in colour to represent that they are alive.
+
+To create a random set of alive cells, click on 'RANDOM', this will create a random set of cells with black in colour to represent them as alive.
 
 Now, Click on 'RUN' button at the top to view the evolution of the alive cells.
 
