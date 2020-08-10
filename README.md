@@ -25,6 +25,8 @@ $python -m pip install pygame
 ```
 Depending on path variable used for python 3.x version
 
+Unzip the folder and then navigate to the unzipped folder where this four files are present.
+
 Navigate to the folder where the files are present , and in the terminal or command prompt execute 'main.py'
 
 ```
